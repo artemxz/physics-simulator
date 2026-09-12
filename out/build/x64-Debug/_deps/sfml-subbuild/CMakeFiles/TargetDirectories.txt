@@ -1,0 +1,3 @@
+C:/с++/git/работы/Дз4/out/build/x64-Debug/_deps/sfml-subbuild/CMakeFiles/sfml-populate.dir
+C:/с++/git/работы/Дз4/out/build/x64-Debug/_deps/sfml-subbuild/CMakeFiles/edit_cache.dir
+C:/с++/git/работы/Дз4/out/build/x64-Debug/_deps/sfml-subbuild/CMakeFiles/rebuild_cache.dir
