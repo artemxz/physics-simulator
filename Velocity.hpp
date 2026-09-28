@@ -1,4 +1,4 @@
-#pragma once
+﻿#pragma once
 #include "Point.hpp"
 #include <cmath>
 
@@ -6,7 +6,7 @@ class Velocity {
   public:
     inline Velocity() = default;
 
-    // TODO: комментарии
+  
     inline Velocity(double abs, double angle) {
         const double x = std::cos(angle);
         const double y = std::sin(angle);
@@ -24,7 +24,11 @@ class Velocity {
     inline Point vector() const {
         return vec;
     }
-
+    friend std::istream& operator>>(std::istream& stream, Velocity& v);
   private:
     Point vec;
 };
+inline std::istream& operator>>(std::istream& stream, Velocity& v) {
+
+    return stream >> v.vec;
+}

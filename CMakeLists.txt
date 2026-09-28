@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.7.2)
+﻿cmake_minimum_required(VERSION 3.7.2)
 project(physics)
 
 set(CMAKE_CXX_STANDARD 17)
@@ -33,7 +33,7 @@ endif ()
 
 add_executable(physics
         main.cpp World.cpp Ball.cpp Physics.cpp Color.cpp Painter.cpp
-        black_box/Application.cpp black_box/View.cpp black_box/PainterImpl.cpp)
+        black_box/Application.cpp black_box/View.cpp black_box/PainterImpl.cpp "Dast.cpp")
 target_link_libraries(physics PRIVATE sfml-graphics)
 
 target_compile_options(physics PRIVATE

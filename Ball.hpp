@@ -9,7 +9,7 @@ private:
     Velocity velocity_;
     Point center_;
     double radius_;
-    Color color_;
+    Color color_; 
     bool isCollidable_;
     double mass_;
 public:
@@ -22,4 +22,10 @@ public:
     Point getCenter() const;
     double getRadius() const;
     double getMass() const;
+   bool isCollidable() const {
+    return isCollidable_;
+}
+        
+    
+
 };

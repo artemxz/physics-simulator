@@ -1,12 +1,190 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\\u0441\u002B\u002B\\git\\\u0440\u0430\u0431\u043E\u0442\u044B\\\u0414\u04374\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\\u0441\u002B\u002B\\git\\\u0440\u0430\u0431\u043E\u0442\u044B\\\u0414\u04374\\Ball.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ball.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\\u0441\u002B\u002B\\git\\\u0440\u0430\u0431\u043E\u0442\u044B\\\u0414\u04374\\data\\elephant.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:data\\elephant.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\\u0441\u002B\u002B\\git\\\u0440\u0430\u0431\u043E\u0442\u044B\\\u0414\u04374\\Dast.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dast.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\\u0441\u002B\u002B\\git\\\u0440\u0430\u0431\u043E\u0442\u044B\\\u0414\u04374\\Ball.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Ball.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\\u0441\u002B\u002B\\git\\\u0440\u0430\u0431\u043E\u0442\u044B\\\u0414\u04374\\World.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:World.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\\u0441\u002B\u002B\\git\\\u0440\u0430\u0431\u043E\u0442\u044B\\\u0414\u04374\\Point.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Point.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\\u0441\u002B\u002B\\git\\\u0440\u0430\u0431\u043E\u0442\u044B\\\u0414\u04374\\Color.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Color.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\\u0441\u002B\u002B\\git\\\u0440\u0430\u0431\u043E\u0442\u044B\\\u0414\u04374\\Velocity.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Velocity.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\\u0441\u002B\u002B\\git\\\u0440\u0430\u0431\u043E\u0442\u044B\\\u0414\u04374\\Physics.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Physics.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\\u0441\u002B\u002B\\git\\\u0440\u0430\u0431\u043E\u0442\u044B\\\u0414\u04374\\Physics.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Physics.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "elephant.txt",
+              "DocumentMoniker": "C:\\\u0441\u002B\u002B\\git\\\u0440\u0430\u0431\u043E\u0442\u044B\\\u0414\u04374\\data\\elephant.txt",
+              "RelativeDocumentMoniker": "data\\elephant.txt",
+              "ToolTip": "C:\\\u0441\u002B\u002B\\git\\\u0440\u0430\u0431\u043E\u0442\u044B\\\u0414\u04374\\data\\elephant.txt",
+              "RelativeToolTip": "data\\elephant.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-09-16T17:45:55.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dast.cpp",
+              "DocumentMoniker": "C:\\\u0441\u002B\u002B\\git\\\u0440\u0430\u0431\u043E\u0442\u044B\\\u0414\u04374\\Dast.cpp",
+              "RelativeDocumentMoniker": "Dast.cpp",
+              "ToolTip": "C:\\\u0441\u002B\u002B\\git\\\u0440\u0430\u0431\u043E\u0442\u044B\\\u0414\u04374\\Dast.cpp",
+              "RelativeToolTip": "Dast.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-16T17:28:17.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ball.cpp",
+              "DocumentMoniker": "C:\\\u0441\u002B\u002B\\git\\\u0440\u0430\u0431\u043E\u0442\u044B\\\u0414\u04374\\Ball.cpp",
+              "RelativeDocumentMoniker": "Ball.cpp",
+              "ToolTip": "C:\\\u0441\u002B\u002B\\git\\\u0440\u0430\u0431\u043E\u0442\u044B\\\u0414\u04374\\Ball.cpp",
+              "RelativeToolTip": "Ball.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-12T18:46:48.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Physics.cpp",
+              "DocumentMoniker": "C:\\\u0441\u002B\u002B\\git\\\u0440\u0430\u0431\u043E\u0442\u044B\\\u0414\u04374\\Physics.cpp",
+              "RelativeDocumentMoniker": "Physics.cpp",
+              "ToolTip": "C:\\\u0441\u002B\u002B\\git\\\u0440\u0430\u0431\u043E\u0442\u044B\\\u0414\u04374\\Physics.cpp",
+              "RelativeToolTip": "Physics.cpp",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-16T07:17:59.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Physics.hpp",
+              "DocumentMoniker": "C:\\\u0441\u002B\u002B\\git\\\u0440\u0430\u0431\u043E\u0442\u044B\\\u0414\u04374\\Physics.hpp",
+              "RelativeDocumentMoniker": "Physics.hpp",
+              "ToolTip": "C:\\\u0441\u002B\u002B\\git\\\u0440\u0430\u0431\u043E\u0442\u044B\\\u0414\u04374\\Physics.hpp",
+              "RelativeToolTip": "Physics.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-09-16T07:17:58.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Velocity.hpp",
+              "DocumentMoniker": "C:\\\u0441\u002B\u002B\\git\\\u0440\u0430\u0431\u043E\u0442\u044B\\\u0414\u04374\\Velocity.hpp",
+              "RelativeDocumentMoniker": "Velocity.hpp",
+              "ToolTip": "C:\\\u0441\u002B\u002B\\git\\\u0440\u0430\u0431\u043E\u0442\u044B\\\u0414\u04374\\Velocity.hpp",
+              "RelativeToolTip": "Velocity.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-09-15T17:50:37.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Color.hpp",
+              "DocumentMoniker": "C:\\\u0441\u002B\u002B\\git\\\u0440\u0430\u0431\u043E\u0442\u044B\\\u0414\u04374\\Color.hpp",
+              "RelativeDocumentMoniker": "Color.hpp",
+              "ToolTip": "C:\\\u0441\u002B\u002B\\git\\\u0440\u0430\u0431\u043E\u0442\u044B\\\u0414\u04374\\Color.hpp",
+              "RelativeToolTip": "Color.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-09-15T17:41:04.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Point.hpp",
+              "DocumentMoniker": "C:\\\u0441\u002B\u002B\\git\\\u0440\u0430\u0431\u043E\u0442\u044B\\\u0414\u04374\\Point.hpp",
+              "RelativeDocumentMoniker": "Point.hpp",
+              "ToolTip": "C:\\\u0441\u002B\u002B\\git\\\u0440\u0430\u0431\u043E\u0442\u044B\\\u0414\u04374\\Point.hpp",
+              "RelativeToolTip": "Point.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-09-15T17:35:23.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "World.cpp",
+              "DocumentMoniker": "C:\\\u0441\u002B\u002B\\git\\\u0440\u0430\u0431\u043E\u0442\u044B\\\u0414\u04374\\World.cpp",
+              "RelativeDocumentMoniker": "World.cpp",
+              "ToolTip": "C:\\\u0441\u002B\u002B\\git\\\u0440\u0430\u0431\u043E\u0442\u044B\\\u0414\u04374\\World.cpp",
+              "RelativeToolTip": "World.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-09-12T18:46:53.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ball.hpp",
+              "DocumentMoniker": "C:\\\u0441\u002B\u002B\\git\\\u0440\u0430\u0431\u043E\u0442\u044B\\\u0414\u04374\\Ball.hpp",
+              "RelativeDocumentMoniker": "Ball.hpp",
+              "ToolTip": "C:\\\u0441\u002B\u002B\\git\\\u0440\u0430\u0431\u043E\u0442\u044B\\\u0414\u04374\\Ball.hpp",
+              "RelativeToolTip": "Ball.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-09-12T18:46:49.675Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -1,4 +1,4 @@
-#include "Physics.hpp"
+﻿#include "Physics.hpp"
 
 double dot(const Point& lhs, const Point& rhs) {
     return lhs.x * rhs.x + lhs.y * rhs.y;
@@ -18,11 +18,22 @@ void Physics::update(std::vector<Ball>& balls, const size_t ticks) const {
         collideWithBox(balls);
         collideBalls(balls);
     }
+    
 }
 
 void Physics::collideBalls(std::vector<Ball>& balls) const {
     for (auto a = balls.begin(); a != balls.end(); ++a) {
         for (auto b = std::next(a); b != balls.end(); ++b) {
+
+             if (!a->isCollidable() || !b->isCollidable()) {
+                continue; 
+            }
+
+
+
+
+
+
             const double distanceBetweenCenters2 =
                 distance2(a->getCenter(), b->getCenter());
             const double collisionDistance = a->getRadius() + b->getRadius();
@@ -32,6 +43,7 @@ void Physics::collideBalls(std::vector<Ball>& balls) const {
             if (distanceBetweenCenters2 < collisionDistance2) {
                 processCollision(*a, *b, distanceBetweenCenters2);
             }
+            
         }
     }
 }
@@ -40,7 +52,7 @@ void Physics::collideWithBox(std::vector<Ball>& balls) const {
     for (Ball& ball : balls) {
         const Point p = ball.getCenter();
         const double r = ball.getRadius();
-        // определяет, находится ли v в диапазоне (lo, hi) (не включая границы)
+     
         auto isOutOfRange = [](double v, double lo, double hi) {
             return v < lo || v > hi;
         };
